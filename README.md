@@ -1,1 +1,1 @@
-# inspire-ml-backend
+# ai-backend
